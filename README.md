@@ -1,2 +1,8 @@
+
 # exam-seating-arrangement-python
-This code will help to create seating arrangement for examination 
+## MADE WITH PYTHON
+## AUTHOR: SHUBHAM BHATIA ! 
+### Did this for my school project 🎉
+### 🫂This code will help to create seating arrangement for examination 
+## REQUIREMENTS :
+### xlsxwriter
